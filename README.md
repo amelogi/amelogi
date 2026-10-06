@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-[![Amelies's GitHub stats](https://github-stats-extended.vercel.app/api?username=amelogi)](https://github.com/stats-organization/github-stats-extended)
+[![Amelies's GitHub stats](https://github-stats-extended.vercel.app/api?username=amelogi&title_color=ff6b6b&text_color=c9d1d9&icon_color=79ff97&bg_color=0d1117&border_color=30363d)](https://github.com/stats-organization/github-stats-extended)
 <!--
 **amelogi/amelogi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
